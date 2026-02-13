@@ -37,3 +37,6 @@ Desktop.ini
 .agent/logs/
 .agent/temp/
 .agent
+
+BACKLOG.md
+.gitignore
