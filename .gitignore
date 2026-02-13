@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production / Build
+dist/
+build/
+*.local
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Optional: Ignore the .agent folder if it contains local-only agent context or sensitive logs
+# .agent/
+# For now, we usually want to commit .agent configuration but ignore logs if any.
+.agent/logs/
+.agent/temp/
+.agent
