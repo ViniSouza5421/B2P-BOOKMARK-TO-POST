@@ -12,8 +12,7 @@
     "host_permissions": [
         "https://x.com/*",
         "https://api.twitter.com/*",
-        "https://twitter.com/*",
-        "<all_urls>"
+        "https://twitter.com/*"
     ],
     "background": {
         "service_worker": "src/background/background.js",
@@ -31,7 +30,8 @@
                 "assets/*"
             ],
             "matches": [
-                "<all_urls>"
+                "https://x.com/*",
+                "https://twitter.com/*"
             ]
         }
     ]
