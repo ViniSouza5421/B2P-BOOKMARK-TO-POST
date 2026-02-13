@@ -24,6 +24,11 @@
     "side_panel": {
         "default_path": "src/sidepanel/index.html"
     },
+    "icons": {
+        "16": "b2picon.png",
+        "48": "b2picon.png",
+        "128": "b2picon.png"
+    },
     "web_accessible_resources": [
         {
             "resources": [
