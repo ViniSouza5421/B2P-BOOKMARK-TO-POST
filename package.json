@@ -12,8 +12,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ViniSouza5421",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniSouza5421/B2P-BOOKMARK-TO-POST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ViniSouza5421/B2P-BOOKMARK-TO-POST/issues"
+  },
+  "homepage": "https://github.com/ViniSouza5421/B2P-BOOKMARK-TO-POST#readme",
   "type": "commonjs",
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",

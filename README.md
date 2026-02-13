@@ -35,7 +35,7 @@ B2P is a powerful Chrome Extension that analyzes your saved bookmarks using adva
 1.  **Download/Clone the Repository**:
     ```bash
     git clone https://github.com/ViniSouza5421/B2P-BOOKMARK-TO-POST.git
-    cd B2P
+    cd B2P-BOOKMARK-TO-POST
     ```
 2.  **Install Dependencies & Build**:
     ```bash
